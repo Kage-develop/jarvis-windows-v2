@@ -1,0 +1,13 @@
+{
+  "gemini_api_key": "",
+  "voice": "Charon",
+  "youtube_api_key": "",
+  "youtube_channel_handle": "",
+  "weather_location": "Baku",
+  "google_calendar_auth": "",
+  "microsoft_todo_auth": "",
+  "enable_tts": true,
+  "enable_voice_input": true,
+  "enable_whatsapp": false,
+  "model": "gemini-2.5-flash"
+}

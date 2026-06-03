@@ -1,0 +1,14 @@
+google-genai
+SpeechRecognition
+pyaudio
+PyQt6
+psutil
+Pillow
+requests
+pyperclip
+pycaw
+comtypes
+mss
+pyautogui
+pystray
+pywin32
