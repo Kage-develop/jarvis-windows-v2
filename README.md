@@ -116,3 +116,11 @@ The main config lives in `config/api_keys.json`:
 
 No license is included yet. Add a license file before publishing if you want
 others to reuse, modify, or redistribute the project.
+
+## Credits
+
+This project is a Windows adaptation of the original JARVIS project by Alp Unlu.
+
+Original repository: https://github.com/alpunlu12-commits/jarvis
+
+Windows adaptation and additional development by Kage-develop.
